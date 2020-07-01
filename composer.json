@@ -1,10 +1,14 @@
 {
-    "name": "wpcomposer/acf-input-counter",
-    "description": "Adds a counter to all text and textarea fields with character limits",
+    "name": "@apersky/acf-input-counter",
+    "description": "Show character count for limited text and textarea fields in ACF. This is a fork of https://github.com/Hube2/acf-input-counter, specifically modified to suite the needs of 5 Fold Marketing.",
     "type": "wordpress-plugin",
     "license": "GPL-3.0",
-    "keywords": ["wordpress", "plugin", "acf"],
-    "homepage": "https://github.com/Hube2/acf-input-counter",
+    "keywords": [
+        "wordpress",
+        "plugin",
+        "acf"
+    ],
+    "homepage": "https://github.com/apersky/acf-input-counter",
     "require": {
         "composer/installers": "^1.5.0"
     }
